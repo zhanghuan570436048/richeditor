@@ -1,6 +1,5 @@
 <template>
   <div id="fueditor">
-      {{msg}}
       <ComEditor></ComEditor>
   </div>
 </template>
